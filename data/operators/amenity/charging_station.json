@@ -4394,7 +4394,6 @@
       "displayName": "Migrol Charge",
       "id": "migrol-086737",
       "locationSet": {"include": ["ch"]},
-      "matchNames" : ["Migrol"],
       "tags": {
         "amenity": "charging_station",
         "operator": "Migrol",
