@@ -1087,7 +1087,7 @@
       }
     },
     {
-      "displayName": "日本城 JHC",
+      "displayName": "真好城 JHC",
       "id": "jhc-067b48",
       "locationSet": {"include": ["hk", "mo"]},
       "matchNames": [
@@ -1102,6 +1102,10 @@
         "name": "真好城 JHC",
         "name:en": "JHC",
         "name:zh": "真好城",
+        "operator": "國際家居零售 International Housewares Retail",
+        "operator:en": "International Housewares Retail",
+        "operator:wikidata": "Q140545123",
+        "operator:zh": "國際家居零售",
         "shop": "houseware"
       }
     }
