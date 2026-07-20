@@ -4933,9 +4933,18 @@
     },
     {
       "displayName": "Plenitude",
-      "id": "plenitude-2c5517",
-      "locationSet": {"include": ["at", "ch", "de", "es", "fx", "it"]},
-      "matchNames": ["eni Plenitude"],
+      "id": "plenitude-78f1b4",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de",
+          "es",
+          "fx",
+          "it"
+        ]
+      },
+      "matchNames": ["eni plenitude"],
       "tags": {
         "amenity": "charging_station",
         "operator": "Plenitude",
